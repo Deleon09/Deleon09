@@ -33,3 +33,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40" />&nbsp;
   </div>
 </div>
+
+---
+
+### 📊 My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Deleon09&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deleon09&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deleon09&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
