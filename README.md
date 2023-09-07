@@ -16,6 +16,8 @@
 
 - 🌱 I'm currently learning **React native and GraphQL**
 
+- 👔 [Visit my LinkedIn profile](https://www.linkedin.com/in/deleon09dev)
+
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
   <div>
@@ -31,6 +33,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40" />&nbsp;
   </div>
 </div>
 
